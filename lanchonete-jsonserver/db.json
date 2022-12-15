@@ -1,0 +1,124 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Carol",
+      "email": "carol@gmail.com",
+      "nascimento": "1995-02-18"
+    },
+    {
+      "id": 2,
+      "nome": "Fernada",
+      "email": "fernada@gmail.com",
+      "nascimento": "1998-05-12"
+    },
+    {
+      "id": 3,
+      "nome": "Mario",
+      "email": "mario@gmail.com",
+      "nascimento": "1996-08-25"
+    },
+    {
+      "nome": "Marilia Carolina Silva",
+      "email": "mariliacarolina@gmail.com",
+      "nascimento": "1990-10-28",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Sorvete",
+      "preco": "R$ 8,00"
+    },
+    {
+      "id": 2,
+      "nome": "Açaí",
+      "preco": "R$ 10,00"
+    },
+    {
+      "id": 3,
+      "nome": "Cachorro Quente",
+      "preco": "R$ 6,00"
+    },
+    {
+      "nome": "Lasanha",
+      "preco": "R$ 20,00",
+      "id": 4
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "Pedro",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Henrique",
+      "email": "henrique@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Albierre",
+      "email": "albierre@gmail.com"
+    },
+    {
+      "nome": "Rafaelle Carla Santos",
+      "email": "rafaelle@gmail.com",
+      "id": 4
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Williamis",
+      "email": "williamis@gmail.com",
+      "cpf": "222.554.987-79"
+    },
+    {
+      "id": 2,
+      "nome": "Matheus",
+      "email": "Matheus@gmail.com",
+      "cpf": "666.987.654-14"
+    },
+    {
+      "id": 3,
+      "nome": "Lucas",
+      "email": "lucas@gmail.com",
+      "cpf": "333.000.456-02"
+    },
+    {
+      "nome": "Paulo Ferreira Lima",
+      "email": "paulo@gmail.com",
+      "cpf": "785.964.364-78",
+      "id": 4
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "Seara",
+      "email": "seara@gmail.com",
+      "cnpj": "654.987.000003-47"
+    },
+    {
+      "id": 2,
+      "nome": "Aurora",
+      "email": "aurora@gmail.com",
+      "cnpj": "324.699.000087-33"
+    },
+    {
+      "id": 3,
+      "nome": "Friboi",
+      "email": "friboi@gmail.com",
+      "cnpj": "254.964.000364-99"
+    },
+    {
+      "nome": "Sadia",
+      "email": "sadia@gmail.com",
+      "cnpj": "654.347.000098-77",
+      "id": 4
+    }
+  ]
+}
